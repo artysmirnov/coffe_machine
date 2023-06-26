@@ -1,0 +1,115 @@
+C:\Users\Админ\source\repos\Coffe\bin\Debug\Coffe.exe.config
+C:\Users\Админ\source\repos\Coffe\bin\Debug\Coffe.exe
+C:\Users\Админ\source\repos\Coffe\bin\Debug\Coffe.pdb
+C:\Users\Админ\source\repos\Coffe\obj\Debug\Coffe.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\Coffe\obj\Debug\Coffe.Form1.resources
+C:\Users\Админ\source\repos\Coffe\obj\Debug\Coffe.Properties.Resources.resources
+C:\Users\Админ\source\repos\Coffe\obj\Debug\Coffe.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\Coffe\obj\Debug\Coffe.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Coffe\obj\Debug\Coffe.exe
+C:\Users\Админ\source\repos\Coffe\obj\Debug\Coffe.pdb
+C:\Users\danii\Desktop\Coffe\bin\Debug\Coffe.exe.config
+C:\Users\danii\Desktop\Coffe\bin\Debug\Coffe.exe
+C:\Users\danii\Desktop\Coffe\bin\Debug\Coffe.pdb
+C:\Users\danii\Desktop\Coffe\obj\Debug\Coffe.csprojAssemblyReference.cache
+C:\Users\danii\Desktop\Coffe\obj\Debug\Coffe.Form1.resources
+C:\Users\danii\Desktop\Coffe\obj\Debug\Coffe.Properties.Resources.resources
+C:\Users\danii\Desktop\Coffe\obj\Debug\Coffe.csproj.GenerateResource.cache
+C:\Users\danii\Desktop\Coffe\obj\Debug\Coffe.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\Coffe\obj\Debug\Coffe.exe
+C:\Users\danii\Desktop\Coffe\obj\Debug\Coffe.pdb
+D:\Proga\Coffe\bin\Debug\Coffe.exe.config
+D:\Proga\Coffe\bin\Debug\Coffe.exe
+D:\Proga\Coffe\bin\Debug\Coffe.pdb
+D:\Proga\Coffe\obj\Debug\Coffe.Form1.resources
+D:\Proga\Coffe\obj\Debug\Coffe.Properties.Resources.resources
+D:\Proga\Coffe\obj\Debug\Coffe.csproj.GenerateResource.cache
+D:\Proga\Coffe\obj\Debug\Coffe.csproj.CoreCompileInputs.cache
+D:\Proga\Coffe\obj\Debug\Coffe.exe
+D:\Proga\Coffe\obj\Debug\Coffe.pdb
+D:\Proga\Coffe\obj\Debug\Coffe.component.resources
+C:\Users\Артём\Desktop\Coffe\obj\Debug\Coffe.component.resources
+C:\Users\Артём\Desktop\Coffe\obj\Debug\Coffe.Form1.resources
+C:\Users\Артём\Desktop\Coffe\obj\Debug\Coffe.Properties.Resources.resources
+C:\Users\Артём\Desktop\Coffe\obj\Debug\Coffe.csproj.GenerateResource.cache
+C:\Users\Артём\Desktop\Coffe\obj\Debug\Coffe.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\Coffe\obj\Debug\Coffe.exe
+C:\Users\Артём\Desktop\Coffe\obj\Debug\Coffe.pdb
+C:\Users\Артём\Desktop\Coffe\bin\Debug\Coffe.exe.config
+C:\Users\Артём\Desktop\Coffe\bin\Debug\Coffe.exe
+C:\Users\Артём\Desktop\Coffe\bin\Debug\Coffe.pdb
+C:\Users\Артём\Desktop\Новая папка (2)\Coffe\bin\Debug\Coffe.exe.config
+C:\Users\Артём\Desktop\Новая папка (2)\Coffe\bin\Debug\Coffe.exe
+C:\Users\Артём\Desktop\Новая папка (2)\Coffe\bin\Debug\Coffe.pdb
+C:\Users\Артём\Desktop\Новая папка (2)\Coffe\obj\Debug\Coffe.component.resources
+C:\Users\Артём\Desktop\Новая папка (2)\Coffe\obj\Debug\Coffe.Form1.resources
+C:\Users\Артём\Desktop\Новая папка (2)\Coffe\obj\Debug\Coffe.Properties.Resources.resources
+C:\Users\Артём\Desktop\Новая папка (2)\Coffe\obj\Debug\Coffe.csproj.GenerateResource.cache
+C:\Users\Артём\Desktop\Новая папка (2)\Coffe\obj\Debug\Coffe.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\Новая папка (2)\Coffe\obj\Debug\Coffe.exe
+C:\Users\Артём\Desktop\Новая папка (2)\Coffe\obj\Debug\Coffe.pdb
+C:\Users\Артём\Desktop\qwe\Coffe\bin\Debug\Coffe.exe.config
+C:\Users\Артём\Desktop\qwe\Coffe\bin\Debug\Coffe.exe
+C:\Users\Артём\Desktop\qwe\Coffe\bin\Debug\Coffe.pdb
+C:\Users\Артём\Desktop\qwe\Coffe\obj\Debug\Coffe.component.resources
+C:\Users\Артём\Desktop\qwe\Coffe\obj\Debug\Coffe.Form1.resources
+C:\Users\Артём\Desktop\qwe\Coffe\obj\Debug\Coffe.Properties.Resources.resources
+C:\Users\Артём\Desktop\qwe\Coffe\obj\Debug\Coffe.csproj.GenerateResource.cache
+C:\Users\Артём\Desktop\qwe\Coffe\obj\Debug\Coffe.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\qwe\Coffe\obj\Debug\Coffe.exe
+C:\Users\Артём\Desktop\qwe\Coffe\obj\Debug\Coffe.pdb
+C:\Users\Артём\Desktop\qwe\Coffe\obj\Debug\Coffe.csproj.AssemblyReference.cache
+C:\Users\Артём\Desktop\coffe2\Coffe\bin\Debug\Coffe.exe.config
+C:\Users\Артём\Desktop\coffe2\Coffe\bin\Debug\Coffe.exe
+C:\Users\Артём\Desktop\coffe2\Coffe\bin\Debug\Coffe.pdb
+C:\Users\Артём\Desktop\coffe2\Coffe\obj\Debug\Coffe.csproj.AssemblyReference.cache
+C:\Users\Артём\Desktop\coffe2\Coffe\obj\Debug\Coffe.component.resources
+C:\Users\Артём\Desktop\coffe2\Coffe\obj\Debug\Coffe.Form1.resources
+C:\Users\Артём\Desktop\coffe2\Coffe\obj\Debug\Coffe.Properties.Resources.resources
+C:\Users\Артём\Desktop\coffe2\Coffe\obj\Debug\Coffe.csproj.GenerateResource.cache
+C:\Users\Артём\Desktop\coffe2\Coffe\obj\Debug\Coffe.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\coffe2\Coffe\obj\Debug\Coffe.exe
+C:\Users\Артём\Desktop\coffe2\Coffe\obj\Debug\Coffe.pdb
+C:\Users\Админ\Desktop\Новая папка\Coffe\bin\Debug\Coffe.exe.config
+C:\Users\Админ\Desktop\Новая папка\Coffe\bin\Debug\Coffe.exe
+C:\Users\Админ\Desktop\Новая папка\Coffe\bin\Debug\Coffe.pdb
+C:\Users\Админ\Desktop\Новая папка\Coffe\obj\Debug\Coffe.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\Новая папка\Coffe\obj\Debug\Coffe.component.resources
+C:\Users\Админ\Desktop\Новая папка\Coffe\obj\Debug\Coffe.Form1.resources
+C:\Users\Админ\Desktop\Новая папка\Coffe\obj\Debug\Coffe.Properties.Resources.resources
+C:\Users\Админ\Desktop\Новая папка\Coffe\obj\Debug\Coffe.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\Новая папка\Coffe\obj\Debug\Coffe.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Новая папка\Coffe\obj\Debug\Coffe.exe
+C:\Users\Админ\Desktop\Новая папка\Coffe\obj\Debug\Coffe.pdb
+C:\Users\Артём\Desktop\4.0\Coffe\bin\Debug\Coffe.exe.config
+C:\Users\Артём\Desktop\4.0\Coffe\bin\Debug\Coffe.exe
+C:\Users\Артём\Desktop\4.0\Coffe\bin\Debug\Coffe.pdb
+C:\Users\Артём\Desktop\4.0\Coffe\obj\Debug\Coffe.component.resources
+C:\Users\Артём\Desktop\4.0\Coffe\obj\Debug\Coffe.Form1.resources
+C:\Users\Артём\Desktop\4.0\Coffe\obj\Debug\Coffe.Properties.Resources.resources
+C:\Users\Артём\Desktop\4.0\Coffe\obj\Debug\Coffe.csproj.GenerateResource.cache
+C:\Users\Артём\Desktop\4.0\Coffe\obj\Debug\Coffe.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\4.0\Coffe\obj\Debug\Coffe.exe
+C:\Users\Артём\Desktop\4.0\Coffe\obj\Debug\Coffe.pdb
+C:\Users\Артём\Desktop\4.0\Coffe\obj\Debug\Coffe.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\4.0\Coffe\bin\Debug\Coffe.exe.config
+C:\Users\Админ\Desktop\4.0\Coffe\bin\Debug\Coffe.exe
+C:\Users\Админ\Desktop\4.0\Coffe\bin\Debug\Coffe.pdb
+C:\Users\Админ\Desktop\4.0\Coffe\obj\Debug\Coffe.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\4.0\Coffe\obj\Debug\Coffe.component.resources
+C:\Users\Админ\Desktop\4.0\Coffe\obj\Debug\Coffe.Form1.resources
+C:\Users\Админ\Desktop\4.0\Coffe\obj\Debug\Coffe.Properties.Resources.resources
+C:\Users\Админ\Desktop\4.0\Coffe\obj\Debug\Coffe.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\4.0\Coffe\obj\Debug\Coffe.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\4.0\Coffe\obj\Debug\Coffe.exe
+C:\Users\Админ\Desktop\4.0\Coffe\obj\Debug\Coffe.pdb
+C:\Users\Артём\Desktop\ready\Coffe\bin\Debug\Coffe.exe.config
+C:\Users\Артём\Desktop\ready\Coffe\bin\Debug\Coffe.exe
+C:\Users\Артём\Desktop\ready\Coffe\bin\Debug\Coffe.pdb
+C:\Users\Артём\Desktop\ready\Coffe\obj\Debug\Coffe.component.resources
+C:\Users\Артём\Desktop\ready\Coffe\obj\Debug\Coffe.Form1.resources
+C:\Users\Артём\Desktop\ready\Coffe\obj\Debug\Coffe.Properties.Resources.resources
+C:\Users\Артём\Desktop\ready\Coffe\obj\Debug\Coffe.csproj.GenerateResource.cache
+C:\Users\Артём\Desktop\ready\Coffe\obj\Debug\Coffe.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\ready\Coffe\obj\Debug\Coffe.exe
+C:\Users\Артём\Desktop\ready\Coffe\obj\Debug\Coffe.pdb
